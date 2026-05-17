@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dev | Low Level Systems | Cloud Architecture | Cyber-Sec & Forensics | [greyninja]
+Low Level Dev  |  Full Stack Dev  |  Linux Scripts  |  Cloud Architecture  |  Cyber-Sec & Forensics | [greyninja]
 
 
 ## 🌐 Socials:
